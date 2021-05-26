@@ -1,7 +1,7 @@
 bl_info = {
     "name" : "Addon Prefences - Minimal - UI",
     "author" : "Noyogi",
-    "version" : (1,0),
+    "version" : (0,2),
     "blender" : (2,92,0),
     "location" : "Preferences > Addons",
     "description": "Simplifies Addon Panel",
