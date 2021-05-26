@@ -11,7 +11,6 @@ bl_info = {
 }
 
 
-# import os, sys # for using another py script
 from . import bAPMUI
 
 def register():
