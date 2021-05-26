@@ -12,6 +12,8 @@ This Blender Add-On reduces UI clutter in the Add-On region of the Preferences W
 
 - Add open LICENSE
 
-- Add dynamic "bl_warning" notification
+- Dynamic Tooltip for Warning Operator that shows the warning text
+
+- Warning Operator popup should show links to fixes related to the warning
 
 - Integrate git updater
