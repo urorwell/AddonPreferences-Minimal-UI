@@ -1,10 +1,10 @@
-# AddonPreferences-Minimal-UI - README
+# AddonPreferences-Minimal-UI - README.md
 
 This Blender Add-On reduces UI clutter in the Add-On region of the Preferences Window
 
----
-
 **Version: 0.2 - alpha**
+
+---
 
 ### TODO:
 
@@ -12,6 +12,6 @@ This Blender Add-On reduces UI clutter in the Add-On region of the Preferences W
 
 - Add open LICENSE
 
- - Add dynamic "bl_warning" notification
+- Add dynamic "bl_warning" notification
 
- - Integrate git updater
+- Integrate git updater
