@@ -6,7 +6,8 @@ bl_info = {
     "location" : "Preferences > Addons",
     "description": "Simplifies Addon Panel",
     "warning" : "Only tested on 2.92, on Ubuntu 20.04",
-    "doc_url" : "",
+    "doc_url" : "https://github.com/urorwell/AddonPreferences-Minimal-UI",
+    "tracker_url" : "https://github.com/urorwell/AddonPreferences-Minimal-UI/issues"
     "category" : "Interface",
 }
 
