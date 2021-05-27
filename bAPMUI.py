@@ -51,10 +51,10 @@ class BAPMUI_OT_change_class(Operator):
 
 
 class PREFERENCES_OT_addon_warning(Operator):
-    """Switch 'USERPREF_PT_addons' Class"""
+    """Addon Warning - For now click to view warning about this addon"""
     bl_idname = "preferences.addon_warning"
     bl_label = ""
-    
+
     warning: StringProperty()
 
     def execute(self, context):
@@ -72,7 +72,7 @@ class PREFERENCES_OT_addon_warning(Operator):
 
 
 class PREFERENCES_OT_addon_info(Operator):
-    """Switch 'USERPREF_PT_addons' Class"""
+    """- Addon Info -"""
     bl_idname = "preferences.addon_info"
     bl_label = ""
 
