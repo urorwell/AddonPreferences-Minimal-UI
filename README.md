@@ -10,10 +10,8 @@ This Blender Add-On reduces UI clutter in the Add-On region of the Preferences W
 
 - Improve README
 
-- Add open LICENSE
-
 - Dynamic Tooltip for Warning Operator that shows the warning text
 
 - Warning Operator popup should show links to fixes related to the warning
 
-- Integrate git updater
+- Integrate Addon Updater
