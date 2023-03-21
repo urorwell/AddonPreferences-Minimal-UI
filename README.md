@@ -2,7 +2,7 @@
 
 tested blender 3.2
 
-This Blender Add-On reduces UI clutter in the Add-On region of the Preferences Window
+A minimalist UI for the Add-On Preferences, by hiding the author, location, version, description, docs-button & report bug button.
 
 | Default | Minimal |
 |--|--|
